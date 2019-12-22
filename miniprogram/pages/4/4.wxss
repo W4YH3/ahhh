@@ -1,0 +1,29 @@
+.a{
+width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:right;
+ background-color: cornsilk
+}
+.b{
+  width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:left;
+ background-color: cornsilk
+}
+.c{
+   margin-top: 100rpx;
+}
+.d{width: 35%; 
+ margin-top: 40px; 
+ margin-right:10px;
+ background-color: cornsilk
+}
+.center{text-align:center;}
+.red{
+  color: red
+}
+.white{
+  color: whitesmoke
+}

@@ -1,0 +1,25 @@
+
+.a{
+color:white;
+background-color:aqua;
+width: 200%;
+  margin-top: 30rpx;
+  border-radius: 120rpx; 
+}
+.b{
+width: 400px;
+height: 50px
+}
+.text{
+text-align:center;
+color:mediumspringgreen;
+font-size: 39px;
+margin:100px
+}
+
+.h{
+  background-image: url(https://mr.baidu.com/ygwaa94?f=cp&u=b61c27478876d795);
+  background-size: cover;
+  width: 100%;
+  height: 100%
+}

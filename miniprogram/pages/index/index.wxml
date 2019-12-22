@@ -1,0 +1,3 @@
+<view classs="imagesize">
+<image src="/images/frontpage.jpg" class='a' bindtap="a"></image> 
+</view>

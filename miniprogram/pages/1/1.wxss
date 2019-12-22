@@ -1,0 +1,39 @@
+.a{
+width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:right;
+ background-color: burlywood
+}
+.b{
+  width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:left;
+ background-color: burlywood
+}
+.c{
+   margin-top: 100rpx;
+}
+.d{width: 35%; 
+ margin-top: 40px; 
+ margin-right:10px;
+ background-color: burlywood
+ }
+.nothing{
+text-align:center;
+font-size: 14px;
+margin:110px;
+}
+.more
+{
+  color: yellow
+}
+.red{
+color: red;
+font-size: 30px;
+
+}
+.center{
+text-align:center;
+}

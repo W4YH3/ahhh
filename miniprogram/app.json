@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/homepage/homepage",
+    "pages/1/1",
+    "pages/qiangpozheng/bilibili/bilibili",
+    "pages/qiangpozheng/tiktok/tiktok",
+    "pages/qiangpozheng/tencent/tencent",
+    "pages/qiangpozheng/baidu/baidu",
+    "pages/qiangpozheng/second/second",
+    "pages/qiangpozheng/music/music",
+    "pages/4/4",
+    "pages/shimian/music/music",
+    "pages/shimian/tingli/tingli",
+    "pages/shimian/xiangsheng/xiangsheng",
+    "pages/2/2",
+    "pages/shufen/bilibili/bilibili",
+    "pages/shufen/ziliao/ziliao",
+    "pages/3/3",
+    "pages/5/5",
+    "pages/shufen/fangfa/fangfa",
+    "pages/shilian/music/music",
+    "pages/shilian/text/text",
+    "pages/investigation/investigation"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

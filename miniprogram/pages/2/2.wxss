@@ -1,0 +1,32 @@
+.a{
+width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:center;
+ background-color: burlywood
+}
+.b{
+width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:center;
+ background-color: gold
+}
+.c{
+width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:left;
+ background-color: gold
+}
+.d{
+width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:right;
+ background-color: gold
+}
+.nothing{
+text-align:center;
+font-size: 14px;
+margin:30px;}

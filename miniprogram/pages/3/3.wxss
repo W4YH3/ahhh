@@ -1,0 +1,15 @@
+.a{
+width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:right;
+ background-color: greenyellow
+}
+.b{
+  width: 30%; 
+ margin-top: 35px; 
+ margin-right:10px;
+ float:left;
+ background-color: greenyellow
+}
+.white{color:white}
